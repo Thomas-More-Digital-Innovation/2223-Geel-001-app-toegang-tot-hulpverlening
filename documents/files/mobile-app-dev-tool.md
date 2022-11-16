@@ -99,7 +99,18 @@ This video is a little longer since it also explains how to create a basic PWA.
 
 ---
 
-### Things to look into
+## Glide
 1. [Glide](https://www.glideapps.com/)
+2. [Glide university](https://www.glideapps.com/learn)
 
+Glide is a no code tool to build and publish apps.
+This would be a very amazing thing to use for my project for a couple of reasons: 
+* no clode
+* super user-friendly
+* native support for IOS and Android
+* Easy to explain to non-IT people
+* Very large support community
+* Free to use for smaller project and still rather cheap for bigger projects
+
+**Cause of these reasons I'm pretty sure that Glide would be the best option for this project.**
 
