@@ -94,7 +94,7 @@ This video is a little longer since it also explains how to create a basic PWA.
 2. [Hack news PWA's](https://hnpwa.com/)'
 3. [Everything about PWA, web API's, etc](https://web.dev/)
 4. [PWA tutorial with ReactJS](https://www.youtube.com/watch?v=bRoRikxgIew&list=PL8p2I9GklV46NFHdQMFBjXvxwVqtJpa2N)
-5. [PWA tutorial with HTML,CSS,Javascript and Firebase](https://www.youtube.com/watch?v=4XT23X0Fjfk&list=PL4cUxeGkcC9gTxqJBcDmoi5Q2pzDusSL7)
+5. [PWA tutorial with HTML,CSS,Javascript and Firebase font-end and back-end](https://www.youtube.com/watch?v=4XT23X0Fjfk&list=PL4cUxeGkcC9gTxqJBcDmoi5Q2pzDusSL7)
 6. [PWA with tailwind CSS](https://www.youtube.com/watch?v=BKHHbQ-mVEM)
 
 
