@@ -97,6 +97,9 @@ This video is a little longer since it also explains how to create a basic PWA.
 5. [PWA tutorial with HTML,CSS,Javascript and Firebase font-end and back-end](https://www.youtube.com/watch?v=4XT23X0Fjfk&list=PL4cUxeGkcC9gTxqJBcDmoi5Q2pzDusSL7)
 6. [PWA with tailwind CSS](https://www.youtube.com/watch?v=BKHHbQ-mVEM)
 
+---
 
+### Things to look into
+1. [Glide](https://www.glideapps.com/)
 
 
