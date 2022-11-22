@@ -15,7 +15,7 @@
   
 
 ## Must have
-* Exacte kosten van Glide
+* Will Glide be totally free?
 * Glide maximum tables for free
 * search fuction on key words
 * Document how to use glide app
