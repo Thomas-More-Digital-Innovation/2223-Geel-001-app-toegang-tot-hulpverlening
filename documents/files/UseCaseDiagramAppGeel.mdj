@@ -62,7 +62,7 @@
 											"top": 597,
 											"width": 56.341796875,
 											"height": 13,
-											"text": "App user"
+											"text": "user"
 										},
 										{
 											"_type": "LabelView",
@@ -3088,7 +3088,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "App user",
+					"name": "user",
 					"ownedElements": [
 						{
 							"_type": "UMLAssociation",
