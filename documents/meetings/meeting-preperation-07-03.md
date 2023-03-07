@@ -1,4 +1,4 @@
-# Meeting preperation 07/03/2023
+# Meeting preperation and Meeting report 07/03/2023
 
 ## talk points
 
@@ -28,3 +28,20 @@
 5. Individual service screens 
    * Ask about the general structure and look mainly the icons and layout
    * Ask about the shown information more/less, shown in different order, ... 
+
+
+
+---
+
+## After the meeting: 
+
+1. More search options - search per product not per category
+2. Fill in all the data
+3. Plan a new in person meet to explain everything about Glide
+4. What do I need to continue? 
+   * contact info for all services
+   * description for all services
+   * keywords for searching services
+   * icons, pictures for services
+   * create a glide app to add to the team
+5. A new demo will be planning in later. This will be a live demo so I can explain Glide even further
